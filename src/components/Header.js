@@ -1,4 +1,5 @@
 import Logo from './Logo.svg'
+import '../App.css';
 
 function Header() {
     return (
